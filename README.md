@@ -9,3 +9,5 @@
 - ⚡ Fun fact: Confused, Most of the time. But as said by greats "Confusion is route to all the clarities of the world."
 
 [![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=atharva07&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Atharva's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=taxidriver)](https://github.com/anuraghazra/github-readme-stats)
