@@ -23,4 +23,4 @@
 ## Contact
 <a href="https://www.instagram.com/yes_its_atharva/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>       <a href="https://mailto:tanmaymakode76@gmail.com/"><img src="https://img.icons8.com/fluent/48/000000/gmail--v2.png"/></a> 
 <a href="https://discord.com/channels/@In Dev"> <img src="https://img.icons8.com/fluent/48/000000/discord-logo.png"/></a>
-<a href='https://linkedin.com/atharvahiwase'><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href='https://linkedin.com/atharva-hiwase-92810014b'><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
