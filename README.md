@@ -13,6 +13,9 @@
 * **Django** 
 * **HTML**
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atharva07)](https://github.com/indieD3v/github-readme-stats)
+
+
 [![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=atharva07&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Atharva's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=taxidriver)](https://github.com/anuraghazra/github-readme-stats)
