@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on youtube and Tech Blogs
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Django and Stuff realted to Python 
-- 📫 How to reach me: 
+- 📫 How to reach me: [LinkedIn - @AtharvaHiwase](https://www.linkedin.com/in/atharva-hiwase-92810014b/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Confused, Most of the time. But as said by greats "Confusion is route to all the clarities of the world."
--->
+
