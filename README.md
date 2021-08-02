@@ -1,17 +1,17 @@
 ### Hello, I am Atharva Hiwase 👋
 
-- 🔭 I’m currently working on a Project based on Django Framework.
 - 🌱 I’m currently learning Django Framework and Data Analytics.
-- 👯 I’m looking to collaborate on youtube and Tech Blogs
-- 🤔 I’m looking for a full time opportunity in Data Analytics 
+- 🤔 I’m looking for a full time opportunity in Software Development.
 - 💬 Ask me about Stuff related to Python.
 - 📫 How to reach me: [LinkedIn - @AtharvaHiwase](https://www.linkedin.com/in/atharva-hiwase-92810014b/)
-- ⚡ Fun fact: Confused, Most of the time. But as said by greats "Confusion is route to all the clarities of the world."
 
 ## Languages and Technologie's
 * **Python**                                                                              
 * **Django** 
 * **HTML**
+* **JavaScript**
+* **R**
+* **SQL**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atharva07)](https://github.com/indieD3v/github-readme-stats)
 
