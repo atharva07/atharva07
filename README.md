@@ -22,5 +22,4 @@
 
 ## Contact
 <a href="https://www.instagram.com/yes_its_atharva/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>       <a href="https://mailto:atharva.hiwase07@gmail.com/"><img src="https://img.icons8.com/fluent/48/000000/gmail--v2.png"/></a> 
-<a href="https://twitter.com/HiwaseAtharva"> <img src="https://img.icons8.com/nolan/64/twitter.png"/></a>
 <a href="https://www.linkedin.com/in/atharva-hiwase-92810014b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
