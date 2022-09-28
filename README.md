@@ -1,6 +1,6 @@
 ### Hello, I am Atharva Hiwase 👋
 
-- 🌱 I’m currently working as a Trainee QA Engineer at Quality Kiosk.
+- 🌱 I’m currently working as a Automation Engineer at QualityKiosk Technologies.
 - 🤔 My profession includes technologies like Java, Python, and query language like SQL. 
 - 📫 How to reach me: [LinkedIn - @AtharvaHiwase](https://www.linkedin.com/in/atharva-hiwase-92810014b/)
 
@@ -15,6 +15,7 @@
 * **Selenium**
 * **Appium**
 * **Excel**
+* **VBA**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atharva07)](https://github.com/indieD3v/github-readme-stats)
 
