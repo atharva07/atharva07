@@ -4,7 +4,7 @@
 - 🤔 My profession includes technologies like Java, Python, and query language like SQL. 
 - 📫 How to reach me: [LinkedIn - @AtharvaHiwase](https://www.linkedin.com/in/atharva-hiwase-92810014b/)
 
-## Languages and Technologie's
+## Languages and Technologies
 * **Python**                                                                              
 * **Django** 
 * **HTML**
