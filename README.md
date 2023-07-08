@@ -13,7 +13,6 @@
 * **SQL**
 * **Java**
 * **Selenium**
-* **Appium**
 * **Excel**
 * **VBA**
 
