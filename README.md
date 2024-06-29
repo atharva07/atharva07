@@ -1,6 +1,6 @@
 ### Hello, I am Atharva Hiwase 👋
 
-- 🌱 I’m currently working as a Automation Engineer at QualityKiosk Technologies.
+- 🌱 I’m currently working as a Automation Engineer at QualityKiosk Technologies. With around 3 years of experience in Automation Testing, with expertise  in Web and API Testing using below tools and technologies.
 - 🤔 My profession includes technologies like Java, Python, and query language like SQL. 
 - 📫 How to reach me: [LinkedIn - @AtharvaHiwase](https://www.linkedin.com/in/atharva-hiwase-92810014b/)
 
