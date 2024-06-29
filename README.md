@@ -6,15 +6,16 @@
 
 ## Languages and Technologies
 * **Python**                                                                              
-* **Django** 
+* **Rest Assured** 
 * **HTML**
 * **JavaScript**
-* **R**
+* **Docker**
 * **SQL**
 * **Java**
 * **Selenium**
 * **Excel**
-* **VBA**
+* **Postman**
+* **Jenkins**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atharva07)](https://github.com/indieD3v/github-readme-stats)
 
