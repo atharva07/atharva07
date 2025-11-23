@@ -1,6 +1,6 @@
 ### Hello, I am Atharva Hiwase 👋
 
-- 🌱 I’m currently working as a Software Engineer at Predigle Pvt Ltd. With 3+ years of experience in Automation Testing, with expertise in Web and API Testing using below tools and technologies.
+- 🌱 I’m currently working as a Software Engineer at Predigle Pvt Ltd. With 4+ years of experience in Automation Testing, with expertise in Web and API Testing using below tools and technologies.
 - 🤔 My profession includes Programming Languages like Java, Python, and query language like SQL. 
 - 📫 How to reach me: [LinkedIn - @AtharvaHiwase](https://www.linkedin.com/in/atharva-hiwase-92810014b/)
 
@@ -8,7 +8,6 @@
 * **Java**                                                                              
 * **Rest Assured** 
 * **Selenium**
-* **JavaScript**
 * **Docker**
 * **SQL**
 * **Python**
@@ -17,6 +16,8 @@
 * **Postman**
 * **Jenkins**
 * **JIRA**
+* **Pytest**
+* **Azure DevOps**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atharva07)](https://github.com/indieD3v/github-readme-stats)
 
